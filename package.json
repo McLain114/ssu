@@ -8,6 +8,6 @@
     "build": "hugo"
   },
   "dependencies": {
-    "hugo": "^0.120.0" 
+    "hugo": "hugo" 
   }
 }
