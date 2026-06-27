@@ -1,0 +1,54 @@
+# =====================================
+# 🌟 Core Site Information
+# =====================================
+title = "SunnySideUp | Spreading Joy & Building Community"
+description = "A community-focused initiative dedicated to spreading happiness through food donations, clothing drives, and clean-up efforts."
+# baseurl = "/" # Uncomment if your site will be hosted in a subdirectory (e.g., www.mydomain.com/ssu)
+language = "en-us"
+
+# =====================================
+# 🎨 Appearance & Metadata
+# =====================================
+# This is where you define what the site's theme is.
+# NOTE: You must have the theme installed/selected when you run 'hugo new site .'
+theme = "ananke" # Example: Change this to your chosen theme name
+
+# Site-wide settings
+paginate = 10 # How many items per page (useful if you add blog posts later)
+
+# =====================================
+# 🚀 Navigation Structure (Menu)
+# =====================================
+# This defines the links that appear in your main navigation bar.
+[menu]
+  [[menu.main]]
+  # The URL 'content/index.md' is the homepage
+  name = "Home"
+  url = "/"
+  weight = 1
+  
+#  [[menu.main]]
+#  name = "Our Mission"
+#  url = "/mission/" # You will need to create a file called content/mission.md
+#  weight = 2
+
+#  [[menu.main]]
+#  name = "Get Involved"
+#  url = "/get-involved/" # You will need to create a file called content/get-involved.md
+#  weight = 3
+
+#  [[menu.main]]
+#  name = "Contact"
+#  url = "/contact/" # You will need to create a file called content/contact.md
+#  weight = 4
+
+# =====================================
+# 🔗 Social Media & Contact Info
+# =====================================
+[params]
+  # Replace these with your actual details
+  author = "The SunnySideUp Team"
+  copyright = "2026 SunnySideUp. All rights reserved."
+  
+  # Social Links (Update these placeholders!)
+  instagram = "https://www.instagram.com/sunnysideupkcmo/"
