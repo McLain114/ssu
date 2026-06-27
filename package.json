@@ -1,0 +1,17 @@
+{
+  "name": "ssu-hugo-site",
+  "version": "1.0.0",
+  "description": "Hugo site for SunnySideUp, built using a static site generator.",
+  "main": "index.js",
+  "scripts": {
+    "start": "hugo",
+    "build": "hugo"
+  },
+  "author": "The SunnySideUp Team",
+  "license": "MIT",
+  "dependencies": {
+    "hugo": "^0.120.0" 
+    // NOTE: If the container has access to Hugo globally, you might remove this line.
+    // But including it ensures the dependency is listed if the build environment needs it.
+  }
+}
