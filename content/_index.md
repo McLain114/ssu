@@ -2,7 +2,7 @@
 title: SunnySideUp KCMO Home Page
 date: 2026-06-28
 draft: false # Set to false when ready to publish
-featured_image: "/images/ssu-hero.png"
+# featured_image: "/images/ssu-hero.png"
 ---
 
 # ☀️ SunnySideUp KCMO (SSU)
