@@ -4,11 +4,11 @@ date: 2026-06-28
 draft: false # Set to false when ready to publish
 ---
 
-# ☀️ SunnySideUp (SSU)
+# ☀️ SunnySideUp KCMO (SSU)
 
 ## Our Mission: Spreading Happiness, Building Community
 
-SunnySideUp is a community-focused organization dedicated to **spreading happiness and making a tangible difference** in the lives of those around us.
+SunnySideUp KCMO is a community-focused organization dedicated to **spreading happiness and making a tangible difference** in the lives of those around us.
 
 We believe that community strength comes from supporting one another. Our efforts are focused on three core pillars:
 
@@ -32,4 +32,5 @@ We hope your birthday is filled with as much joy and warmth as you bring to our 
 — Your SunnySideUp Family
 
 ---
-<p style="margin-top: 40px; color: #666;">Thank you for visiting! We look forward to making a difference with you.</p>
+***
+Thank you for visiting! We look forward to making a difference with you.
