@@ -1,3 +1,6 @@
 [submodule "sunnysideup/themes/ananke"]
 	path = sunnysideup/themes/ananke
 	url = https://github.com/gohugo-ananke/ananke
+[submodule "themes/bootstrap"]
+	path = themes/bootstrap
+	url = https://github.com/razonyang/hugo-theme-bootstrap
