@@ -4,7 +4,8 @@
 title = "SunnySideUp | Spreading Joy & Building Community"
 description = "A community-focused initiative dedicated to spreading happiness through food donations, clothing drives, and clean-up efforts."
 # hostname (and path) to the root
-baseURL = "http://localhost:1313"
+# baseURL = "http://localhost:1313"
+baseURL = "https://sunnysideup.my/"
 defaultContentLanguage = "en"
 
 # =====================================
