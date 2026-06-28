@@ -13,7 +13,7 @@ defaultContentLanguage = "en"
 # =====================================
 # This is where you define what the site's theme is.
 # NOTE: You must have the theme installed/selected when you run 'hugo new site .'
-theme = "scroll" # Example: Change this to your chosen theme name
+theme = "ananke" # Example: Change this to your chosen theme name
 
 # Site-wide settings
 paginate = 10 # How many items per page (useful if you add blog posts later)
